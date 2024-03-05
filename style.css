@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #085E7D !important;
+
+}
+
+.img-fluid {
+    width: 700;
+    height: 500;
+}
+
+.overflow-hidden {
+    max-height: 30vh;
+}
+
+.bg-dark {
+    background-color: #085E7D !important;
+
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vh;
+    object-fit: cover;
+}
+
+.card.mb-3 {
+    height: calc(100% - 15px);
+}
+
+#map {
+    height: 450px;
+}
